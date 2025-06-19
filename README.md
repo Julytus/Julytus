@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
 </div>
@@ -35,12 +34,5 @@
 ## 🌟 About Some Stats
 
 
-<div align="center">
-  <picture>
-
-[//]: # (    <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake-dark.svg" />)
-[//]: # (    <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/julytus/julytus/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake.svg" />)
-[//]: # (    <img alt="github-snake" src="https://raw.githubusercontent.com/khoahd7621/khoahd7621/abdd6f1f216e501a84bb739f67799da11d93f7ee/github-snake.svg" />)
-  </picture>
-</div>
+![snake gif](https://github.com/julytus/julytus/blob/output/github-snake-dark.svg)
 
